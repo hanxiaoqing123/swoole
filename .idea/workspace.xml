@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e292c059-c6f1-44c0-8833-36c4cf0e1376" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/5/Reload.php" beforeDir="false" afterPath="$PROJECT_DIR$/5/Reload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/5/Test.php" afterDir="false" />
-    </list>
+    <list default="true" id="e292c059-c6f1-44c0-8833-36c4cf0e1376" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5/Test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -70,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/5/Reload.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
@@ -117,7 +114,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1932" />
     <option name="height" value="1056" />
@@ -187,12 +184,12 @@
       <workItem from="1557022525738" duration="408000" />
       <workItem from="1557045193237" duration="1473000" />
       <workItem from="1557105761764" duration="10245000" />
-      <workItem from="1557192033193" duration="2658000" />
+      <workItem from="1557192033193" duration="3211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48237000" />
+    <option name="totallyTimeSpent" value="48790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -297,17 +294,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5/Reload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5/Test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Reload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
