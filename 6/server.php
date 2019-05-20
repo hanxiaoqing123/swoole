@@ -34,6 +34,6 @@ $serv->on('WorkerStart',function ($serv,$workerId){
                 $serv->clearTimer($timeId);
             }
         });
-    }
+}
 });
 $serv->start();
